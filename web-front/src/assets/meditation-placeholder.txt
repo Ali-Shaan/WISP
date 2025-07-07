@@ -1,0 +1,4 @@
+This is a placeholder file for the meditation audio.
+
+In a real application, this would be replaced with an actual MP3 file.
+For development purposes, the app will simulate audio playback. 
